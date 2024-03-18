@@ -1,0 +1,59 @@
+header 
+{
+    
+    width: 100%;
+    justify-content: center;
+    background: #f5f2f2;
+}
+
+.pader
+{
+    width: 100%;
+    background: #124B84;
+    padding: 10px;
+    text-align: center;
+}
+
+.contenido-header
+{
+    width: 940px;
+    height: 150px;
+    top: 5px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.logo1
+{
+    width: 120px;
+}
+
+nav
+{
+    position: absolute;
+    top: 45%;
+    right: 0;
+}
+
+nav li
+{
+    display: inline;
+    margin: 0 0 0 25px;
+}
+
+nav a
+{
+    text-transform: uppercase;
+    color: #124B84;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #16bde7;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
